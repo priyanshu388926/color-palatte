@@ -6,4 +6,4 @@ A single-page web application that allows users to generate and view color palet
 
 ## Screenshot
 
-![Color Palette Generator Screenshot](./assets/color_pallete.jpg)
+![Color Palette Generator Screenshot](./assets/color.jpg)
